@@ -1,6 +1,6 @@
 ![Alt Text](https://media.giphy.com/media/9QVq7CtX9O5hiaitFM/giphy.gif)
 
-# Duel-It
+# About Duel-It
 There are five different types of games you to play. Out of five games, three games will be chosen and the duel will begin. In each game there is a time limit which you need to be aware and act in a smart way.
 
 # Games
