@@ -17,5 +17,5 @@ There are five different types of games you to play. Out of five games, three ga
 **Collect Star Game:** <br />
 • Your goal is to collect more stars than your opponent, don't forget the obstacles.
 
-**Slice Game:** <br />
+**Slice Game:**  <br />
 • You need to squeez and slice foods into pieces. Win the slice duel against your opponent.
